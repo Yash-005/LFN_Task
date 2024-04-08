@@ -15,4 +15,4 @@ In this repository, I've explored  different methods for anonymizing personally 
   - Offers predefined configurations and operators, simplifying the anonymization process and potentially improving accuracy, especially for less well-defined PII.  
   - Effectiveness may vary based on data complexity and model accuracy.
 
-PS- The notebook is not clearly visible on github ,you can download the notebook and run it on you jupyter to seee the complete code,Also i have provided a pdf of notebook
+PS- The notebook is not clearly visible on github ,you can download the notebook and run it on your jupyter to seee the complete code,Also i have provided a pdf of notebook.
